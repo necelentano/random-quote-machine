@@ -1,5 +1,4 @@
-# random-quote-machine
-## FreeCodeCamp Random Quote Machine project
+# FreeCodeCamp Random Quote Machine project
 Build with HTML, CSS, jQuery
 
 Online preview on [CodePen](https://codepen.io/Necelentano/full/wdjvVj/) 
