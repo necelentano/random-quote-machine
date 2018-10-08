@@ -1,5 +1,5 @@
 # FreeCodeCamp Random Quote Machine project
-Build with HTML, CSS, jQuery
+Build with HTML, CSS, jQuery, Forismatic API
 
 Online preview on [CodePen](https://codepen.io/Necelentano/full/wdjvVj/) 
 
